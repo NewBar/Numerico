@@ -1,0 +1,9 @@
+g++ (GCC) 7.4.0
+
+Para o programa funcional basta executar o ep.exe no terminal. Para compilar basta digitar "make all" no terminal.
+Instruções de execução:
+    Primeiro aparecerá a seguinte mensagem: "Para tarefa digite 1, para principal digite 2", só podendo digitar 1 ou 2
+    Se escolher a opção 1 (tarefa) aparecerá "Entre com o numero da tarefa", sendo 1 para a tarefa 1 e 2 para a tarefa 2
+        Para a tarefa 1 aparecerá qual letra da tarefa 1 sendo possível somente a, b, c ou d
+        Para a tarefa 2 aparecerá a multiplicação de WH que é igual a A 
+    Se escolher 2 (principal) entrará com ndig_treino, p e n_teste. Assim ela imprime a matriz Wd de cada dígito.
